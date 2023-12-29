@@ -1,0 +1,86 @@
+export const sushiData = [
+  {
+    name: "Burnt Out Roll",
+    inIngredients: "Shrimp tempura and spicy tuna",
+    outIngredients:
+      "Seared salmon w/ dynamite sauce and garlic suace, topped w/ tempura flakes.",
+    price: 16,
+    photoName: "pictures/BurntOutRoll.png",
+    soldOut: false,
+  },
+  {
+    name: "Dynamite Roll",
+    inIngredients: "Icrab, avocado and cucumber",
+    outIngredients: "Tempura flakes, eel sauce, smelt eggs and green onion",
+    price: 15,
+    photoName: "pictures/dynamite.png",
+    soldOut: false,
+  },
+  {
+    name: "Dragon Roll",
+    inIngredients: "Shrimp tempura and icrab",
+    outIngredients: "Eel and avocado topped w/ eel sauce",
+    price: 16,
+    photoName: "pictures/dragon.png",
+    soldOut: false,
+  },
+  {
+    name: "Hot Cheetos Roll",
+    inIngredients: "Shrimp tempura, cream cheese, spicy icrab and avocado",
+    outIngredients: "Hot cheeto flakes",
+    price: 12,
+    photoName: "pictures/HotCheetos.png",
+    soldOut: false,
+  },
+  {
+    name: "Rainbow Roll",
+    inIngredients: "icrab and cucumber",
+    outIngredients: "Salmon, tuna, shrimp, tilapia, escolar and avocado",
+    price: 13,
+    photoName: "pictures/rainbow.png",
+    soldOut: false,
+  },
+  {
+    name: "Rock & Roll",
+    inIngredients: "Spicy tuna and cucumber",
+    outIngredients: "Salmon and avocado",
+    price: 14,
+    photoName: "pictures/rock&roll.png",
+    soldOut: false,
+  },
+  {
+    name: "San Pedro Roll",
+    inIngredients: "Spicy icrab, fried jalapeno and avocado",
+    outIngredients:
+      "Salmon and tuna w/ lemon pepper seasoning topped w/ ponzu sauce",
+    price: 16,
+    photoName: "pictures/sanPedro.png",
+    soldOut: false,
+  },
+  {
+    name: "Sumo Roll",
+    inIngredients: "Shrimp tempura and spicy icrab",
+    outIngredients: "Seared tuna and avocado topped w/ miso sauce",
+    price: 16,
+    photoName: "pictures/sumo.png",
+    soldOut: true,
+  },
+  {
+    name: "O M G Roll",
+    inIngredients: "Spicy albacore and cilantro",
+    outIngredients:
+      "Yellowtail topped w/ thin sliced red onion, miso and soy mustard sauce",
+    price: 16,
+    photoName: "pictures/omg.png",
+    soldOut: true,
+  },
+  {
+    name: "Fusion Roll",
+    inIngredients: "Shrimp tempura, spicy icrab and avocado",
+    outIngredients:
+      "Salmon seared w/ cajun  seasoning topped w/ diced red onions",
+    price: 16,
+    photoName: "pictures/omg.png",
+    soldOut: false,
+  },
+];
